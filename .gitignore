@@ -1,0 +1,9 @@
+# Terraform Ignore Files
+**/.terraform/*
+**/*.tfstate
+**/*.tfstate.*
+**/crash.log
+**/crash.*.log
+**/terraform.tfvars
+**/*.tfvars.json
+.terraform
